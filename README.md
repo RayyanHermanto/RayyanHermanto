@@ -32,8 +32,8 @@ Feel free to connect with me @rayyanhermanto for all things tech or just to say 
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayyanhermanto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanhermanto&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=risdaaaa&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=risdaaaa&layout=compact&theme=tokyonight&hide_border=true)
 
   <summary><b>☄️ Github Streaks</b></summary>
 
