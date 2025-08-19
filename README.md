@@ -11,10 +11,8 @@ I have a passion for problem-solving and pioneering first-principle thinking, dr
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+Feel free to connect with me @rayyanhermanto for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Languages and Tools:
 
@@ -49,7 +47,5 @@ Feel free to connect with me @iampavangandhi for all things tech or just to say 
 #
 
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
 
 </div>
