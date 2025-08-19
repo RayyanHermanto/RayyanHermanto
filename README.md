@@ -43,7 +43,7 @@ Feel free to connect with me @rayyanhermanto for all things tech or just to say 
 ---
 
 ### 👀 Profile Views
-![Profile Views]([https://komarev.com/ghpvc/?username=rayyanhermanto&color=blueviolet&style=flat-square](https://komarev.com/ghpvc/?username=rayyanhermanto&label=Visitors&color=ff4500&style=for-the-badge))
+![Profile Views](https://komarev.com/ghpvc/?username=rayyanhermanto&label=Profile%20views&color=ff4500&style=for-the-badge)
 
 ---
 <div align="center">
